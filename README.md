@@ -7,7 +7,7 @@ I'm a recent [Code Institute](https://codeinstitute.net/about-us/) graduate with
 
 ```javascript
 const thomasDunn = {
-  code: ["Python", "Javascript", "VBA", "SQL", "HTML", "CSS"],
+  code: ["Python", "Javascript", "SQL", "HTML", "CSS", "VBA"],
   tools: ["Django", "Flask", "MongoDB", "Bootstrap", "MaterialCSS"],
   learning: ["React", "Node.js"],
   openToCollaborate: true
