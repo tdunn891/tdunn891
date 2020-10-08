@@ -1,4 +1,4 @@
-### Hey, I'm Tom 👋
+### Hi, I'm Tom 👋
 
 I'm a recent [Code Institute](https://codeinstitute.net/about-us/) graduate with a background in Investment Operations.
 
