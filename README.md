@@ -1,10 +1,12 @@
 ## Hi, I'm Tom 👨‍💻 💹
 
-I'm a Full Stack Developer with a background in Investment Operations.<br>
+I'm a Full Stack Developer based in Dublin with a background in Investment Operations.<br>
 
 🎓 Bachelor of Economics (International Trade & Finance) - [University of Queensland](https://www.uq.edu.au/) <br>
 🎓 Bachelor of Commerce (Finance) - [University of Queensland](https://www.uq.edu.au/) <br>
 🎓 Diploma in Full Stack Software Development - [Code Institute](https://codeinstitute.net/about-us/) <br>
+
+🇦🇺 in 🇮🇪 with Stamp 4 (Full Work Eligibility)
 
 ## Featured Projects
 
