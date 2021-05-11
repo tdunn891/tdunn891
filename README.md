@@ -1,6 +1,10 @@
-### Hi, I'm Tom 👋 
+### Hi, I'm Tom 👨‍💻 💹
 
-I'm a recent [Code Institute](https://codeinstitute.net/about-us/) Full Stack Software Development graduate with a background in Investment Operations.
+I'm a Full Stack Developer with a background in Investment Operations.<br>
+
+🎓 Bachelor of Economics (International Trade & Finance) - [University of Queensland](https://www.uq.edu.au/) <br>
+🎓 Bachelor of Commerce (Finance) - [University of Queensland](https://www.uq.edu.au/) <br>
+🎓 Diploma in Full Stack Software Development - [Code Institute](https://codeinstitute.net/about-us/) <br>
 
 [![Linkedin: Thomas Dunn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdunn891/)](https://www.linkedin.com/in/thomasdunn891/)
 
