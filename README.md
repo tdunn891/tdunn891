@@ -6,7 +6,7 @@ I'm a Full Stack Developer based in Dublin with a background in Investment Opera
 🎓 Bachelor of Commerce (Finance) - [University of Queensland](https://www.uq.edu.au/) <br>
 🎓 Diploma in Full Stack Software Development - [Code Institute](https://codeinstitute.net/about-us/) <br>
 
-🇦🇺 in 🇮🇪 with Stamp 4 (Full Work Eligibility)
+🇦🇺 in 🇮🇪 with Stamp 4 [Full Work Eligibility]
 
 ## Featured Projects
 
